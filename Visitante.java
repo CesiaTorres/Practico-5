@@ -41,7 +41,7 @@ public abstract class Visitante {
     /**
      * Muestra la informacion del visitante.
      */
-    public abstract void mostar();
+    public abstract void mostrar();
     
     /**
      * Calcula y devuelve el monto de entrada del visitante.
