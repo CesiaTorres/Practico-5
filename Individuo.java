@@ -1,6 +1,6 @@
 import java.util.*;
 /**
- * 
+ * La clase Individuo representa a un visitante individual con sus datos personales.
  * 
  * @author Torres Jemina Cesia
  * @author Reyes Kevin Josue
